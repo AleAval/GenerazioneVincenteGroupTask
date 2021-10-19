@@ -4,7 +4,7 @@ package com.company.model;
 
 import com.company.costant.Area;
 
-public class Collaudatore implements User{
+public class Collaudatore implements User {
 
     private final String nome;
     private final String cognome;
